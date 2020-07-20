@@ -45,7 +45,7 @@
     background-color: $titlebar_bg_color;
     border-bottom: 1px solid $borders;
     
-    headerbar { border-bottom: nonne; }
+    headerbar { border-bottom: none; }
 
     &:backdrop {
       border-color: $unfocused_borders;

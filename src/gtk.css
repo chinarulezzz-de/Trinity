@@ -2195,7 +2195,7 @@ window.background.csd.popup {
   background-color: #000000;
   border-bottom: 1px solid #55AF66; }
   .titlebar headerbar, .titlebar:not(headerbar) headerbar, headerbar.default-decoration headerbar, .csd headerbar.default-decoration headerbar, .default-decoration.titlebar:not(headerbar) headerbar, .csd .default-decoration.titlebar:not(headerbar) headerbar {
-    border-bottom: nonne; }
+    border-bottom: none; }
   .titlebar:backdrop, .titlebar:not(headerbar):backdrop, headerbar.default-decoration:backdrop, .csd headerbar.default-decoration:backdrop, .default-decoration.titlebar:not(headerbar):backdrop, .csd .default-decoration.titlebar:not(headerbar):backdrop {
     border-color: #55AF66;
     color: #55AF66;
